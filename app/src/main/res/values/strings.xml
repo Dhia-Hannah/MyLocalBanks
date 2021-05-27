@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="tvDBS">DBS</string>
+    <string name="tvOCBC">OCBC</string>
+    <string name="tvUOB">UOB</string>
+    <string name="ENG">English</string>
+    <string name="CHI">Chinese</string>
+</resources>
